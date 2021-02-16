@@ -1,53 +1,33 @@
-# S4 Object-Oriented Project
+# S5 Exhibition of Learning
 
 ## Learning Objective
-The first Java project you completed was a huge undertaking where you learned the basics of [imperative programming](https://en.wikipedia.org/wiki/Imperative_programming) by using loops, if statements, assignments, etc. For this next project, we'll expand into [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming), which builds upon the imperative programming paradigm and add object-oriented elements to the project.
-
-We'll also learn how programmers solve big problems by breaking them down into smaller problems and abstracting them away into encapsulated reusable methods, a process called [decomposition](https://codehs.gitbooks.io/apjava/content/Programming-with-Karel/top-down-design-and-decomposition.html). Finally, we'll learn more features of GitHub and how to use it more effectively to share our code.
-
-In summary, in this project you'll know how to...
-1. Apply object-oriented programming concepts like encapsulation and abstraction,
-2. Use method decomposition to break problems into small segments,
-3. Learn how to use [Markdown](https://guides.github.com/features/mastering-markdown/) to format '.md' files
+In the final sprint of the trimester, we addressed arrays. The aim of this assignment is to review arrays to have a more thorough understanding of them.
 
 ## Assignment Description
 
-Your task is to create an app or game using Object-Oriented Programming (OOP) concepts of encapsulation and abstraction. You may use the code from your previous project or start fresh.
-
-The project will need to meet the Completion Criteria as well as follow the Academic Honesty Guidelines. This is an individual project but you're encouraged to consult members of your team as well as the teacher.
+Your friend has written you for help with writing their Java program. They want to know how they can start using large amounts of data without having too many variables. You, of course, have recommended using arrays. Record a video where you recommend arrays to your friend and explain how to use them. See the complete criteria below for more details.
 
 ## ✅ Completion Criteria
+The video should be addressed to a friend advising them on how to use arrays to solve the problem of storing and accessing large amount of data in their coding project. The EOL should answer the following:
 
-### Part 1
-Before you start any coding, complete the following steps:
-- [ ] accept the assignment on GitHub Classroom,
-- [ ] import the project into your IDE,
-- [ ] accept the Academic Honesty Guidelines in 'worksCited.md'
-- [ ] read over the assignment's grading rubric on Canvas,
-- [ ] tick the checkboxes for all the tasks in Part 1,
-- [ ] make your first commit to your GitHub project.
+What are arrays and how are they useful?
+- [] In what ways can arrays be created in Java and what kind of data can they store?
+How can data be accessed and stored in an already existing array in Java?
+How can an array be traversed using a for or while loop?
+What's an enhanced for loop and how can it be used to access an array?
+What are some errors that you might encounter when working with arrays?
+Demonstrate how standard algorithms can use arrays to...
+Determine a minimum or maximum value
+Compute a sum, average, or mode
+Determine if at least one element has a
+particular property
+Determine if all elements have a particular
+property
+Access all consecutive pairs of elements
+Determine the presence or absence of
+duplicate elements
+Determine the number of elements meeting
+specific criteria
 
-Part 1 will not be considered complete until all these steps are completed.
 
-### Part 2
-As you begin coding, ensure that your project contains all the following criteria:
-- [ ] One main class (App) from which the program executes,
-- [ ] Two or more other classes,
-- [ ] Constructors with overloading,
-- [ ] Appropriate accessor & mutator methods,
-- [ ] Static variables & methods
-
-As you work on your project, be sure to...
-- [ ] Regularly commit your code, i.e. at the end of every coding session,
-- [ ] Add comments to your code to explain its purpose and functionality
-- [ ] Add links to any resources you use to the 'worksCited.md' file
-
-Refer to the grading rubric as you go to ensure you're doing the assignment correctly.
-
-### Part 3
-Once you've completed your assignment, record a short video (~5 minutes) that includes the following:
-- [ ] a quick demonstration that your codes works,
-- [ ] the GitHub project repository with all commits,
-- [ ] explanation of how your code uses encapsulation
-
-Add the link to your video here:
+## 🎬 Video link 
