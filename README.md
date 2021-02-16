@@ -11,7 +11,7 @@ Your friend has written you for help with writing their Java program. They want 
 The video should be addressed to a friend advising them on how to use arrays to solve the problem of storing and accessing large amount of data in their coding project. The EOL should answer the following:
 
 What are arrays and how are they useful?
-- [] In what ways can arrays be created in Java and what kind of data can they store?
+- [ ] In what ways can arrays be created in Java and what kind of data can they store?
 How can data be accessed and stored in an already existing array in Java?
 How can an array be traversed using a for or while loop?
 What's an enhanced for loop and how can it be used to access an array?
