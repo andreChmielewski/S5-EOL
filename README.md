@@ -16,6 +16,7 @@ The video should be addressed to a friend advising them on how to use arrays to 
 - [ ] How can an array be traversed using a for or while loop?
 - [ ] What's an enhanced for loop and how can it be used to access an array?
 - [ ] What are some errors that you might encounter when working with arrays?
+
 Demonstrate how standard algorithms can use arrays to...
 - [ ] Determine a minimum or maximum value
 - [ ] Compute a sum, average, or mode
